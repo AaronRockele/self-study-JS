@@ -1,0 +1,20 @@
+body {
+  background: darkgrey;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button {
+  height: 50px;
+  width: 300px;
+  background-color: blue;
+  color: white;
+  font-size: 2em;
+}
+
+/*# sourceMappingURL=stlysheet.css.map */
