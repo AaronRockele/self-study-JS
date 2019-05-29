@@ -1,5 +1,6 @@
 body {
   background: darkgrey;
+  height: 100vh;
 }
 
 .wrapper {
@@ -17,4 +18,13 @@ button {
   font-size: 2em;
 }
 
-/*# sourceMappingURL=stlysheet.css.map */
+img {
+  display: none;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  height: 200px;
+  width: auto;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
